@@ -81,19 +81,19 @@ The analysis demonstrated the following:
 
 Below is the visualization of K-means clustering for paper topics based on abstract features:
 
-![K-means Clustering](images/kmeans-cluster.png)
+![K-means Clustering](kmean.png)
 
 ### Reason Percentage
 
 The analysis of reasons for paper retractions revealed the following distribution:
 
-![Reason Percentage](images/reason-percentage.png)
+![Reason Percentage](reason.png)
 
 ### Publisher Analysis
 
 Analysis of publishers revealed trends in retracted publications:
 
-![Publisher Analysis](images/publisher-analysis.png)
+![Publisher Analysis](publisher.png)
 ## Usage
 
 Run the main script to preprocess data, train models, and evaluate results:
